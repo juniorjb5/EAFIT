@@ -50,8 +50,15 @@ class: inverse, mline, center, middle
 
 
 
-# Seminario de Investigación <br> Escuela de Economía y Finanzas
- 
+# Seminario de Investigación
+
+.center[
+Escuela de Economía y Finanzas
+]
+
+<br>
+<br>
+
 
 
 ---
