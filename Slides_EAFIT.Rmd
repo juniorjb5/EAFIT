@@ -103,7 +103,7 @@ Universidad del Valle
 ]
 
 .center[
-<img style="border-radius: 50%;" src="img/avatar4.PNG"
+<img style="border-radius: 50%;" src="img/avatar2.PNG"
 width="100px"
 />
 
