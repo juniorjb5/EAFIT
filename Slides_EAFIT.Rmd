@@ -94,17 +94,6 @@ Universidad del Valle
 
 
 .center[
-<img style="border-radius: 50%;" src="img/Captura.PNG"
-width="100px"
-/>
-
-[PhD. Jorge M. Uribe](https://jorgemuribe.com/) <br>
-Universitat Oberta de Catalunya
-]
-
-
-
-.center[
 <img style="border-radius: 50%;" src="img/avatar2.PNG"
 width="100px"
 />
@@ -113,6 +102,15 @@ width="100px"
 Universidad del Valle
 ]
 
+
+.center[
+<img style="border-radius: 50%;" src="img/Captura.PNG"
+width="100px"
+/>
+
+[PhD. Jorge M. Uribe](https://jorgemuribe.com/) <br>
+Universitat Oberta de Catalunya
+]
 
 
 ]
