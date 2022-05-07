@@ -1,5 +1,5 @@
 ---
-title: "PrCommonality, macroeconomic factors and banking profitability"
+title: "Commonality, macroeconomic factors and banking profitability"
 subtitle: "ESCUELA DE ECONOMÍA Y FINANZAS - EAFIT"
 author: "Orlando Joaqui-Barandica **|** Diego F. Manotas-Duque **|** Jorge M. Uribe"
 date: "February 16, 2021"
